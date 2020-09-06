@@ -8,5 +8,5 @@ This python script will scrap the highest voted and lastest news from Hacker New
 
 # If you use Sublime Text Editor
  Open your terminal, Navigate to the folder
- 
- - python3 
+ Run the commands below
+ - python3 sracpe.py https://news.ycombinator.com/
