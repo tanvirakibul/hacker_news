@@ -1,3 +1,12 @@
-# hacker_news
+# Scraping the Highest voted messages from Hacker News: https://news.ycombinator.com/
 
-# This project includes a python file with the script of data scraping from hacker news website. This python script takes the most voted news on hacker news and shows with link and number of votes
+This python script will scrap the highest voted and lastest news from Hacker News 
+
+# How to use it?
+- Clone the repository `Git clone `
+- Open with any python IDE and Run the code.
+
+# If you use Sublime Text Editor
+ Open your terminal, Navigate to the folder
+ 
+ - python3 
