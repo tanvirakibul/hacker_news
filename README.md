@@ -3,7 +3,7 @@
 This python script will scrap the highest voted and lastest news from Hacker News 
 
 # How to use it?
-- Clone the repository `Git clone `
+- Clone the repository `Git clone https://github.com/tanvirakibul/hacker_news.git`
 - Open with any python IDE and Run the code.
 
 # If you use Sublime Text Editor
